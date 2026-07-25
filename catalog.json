@@ -10,7 +10,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "传奇",
           "hue": 0.74,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-tiga-official.png"
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-tiga-official.png"
         },
         {
           "id": "ultraman-zero-official",
@@ -18,7 +18,7 @@
           "emoji": "⚡️",
           "rarity": "闪耀",
           "hue": 0.55,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-zero-official.png"
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-zero-official.png"
         },
         {
           "id": "ultraman-z-official",
@@ -26,7 +26,7 @@
           "emoji": "💠",
           "rarity": "稀有",
           "hue": 0.6,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-z-official.png"
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-z-official.png"
         },
         {
           "id": "ultraman-trigger-official",
@@ -34,7 +34,7 @@
           "emoji": "✨",
           "rarity": "传奇",
           "hue": 0.15,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-trigger-official.png"
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-trigger-official.png"
         }
       ]
     }
