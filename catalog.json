@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "name": "在线奥特英雄 Vol.1",
+      "stickers": [
+        {
+          "id": "ultraman-tiga-official",
+          "name": "迪迦 · 闪耀站姿",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "传奇",
+          "hue": 0.74,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-tiga-official.png"
+        },
+        {
+          "id": "ultraman-zero-official",
+          "name": "赛罗 · 英雄站姿",
+          "emoji": "⚡️",
+          "rarity": "闪耀",
+          "hue": 0.55,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-zero-official.png"
+        },
+        {
+          "id": "ultraman-z-official",
+          "name": "泽塔 · 原始形态",
+          "emoji": "💠",
+          "rarity": "稀有",
+          "hue": 0.6,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-z-official.png"
+        },
+        {
+          "id": "ultraman-trigger-official",
+          "name": "特利迦 · 复合型",
+          "emoji": "✨",
+          "rarity": "传奇",
+          "hue": 0.15,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerBook/sticker-library/images/ultraman-trigger-official.png"
+        }
+      ]
+    }
+  ]
+}
