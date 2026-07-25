@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
     {
       "name": "在线奥特英雄 Vol.1",
@@ -35,6 +35,104 @@
           "rarity": "传奇",
           "hue": 0.15,
           "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-trigger-official.png"
+        }
+      ]
+    },
+    {
+      "name": "疯狂动物城",
+      "stickers": [
+        {
+          "id": "zootopia-judy",
+          "name": "朱迪 · 兔警官",
+          "emoji": "🐰",
+          "rarity": "传奇",
+          "hue": 0.58,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-judy.png"
+        },
+        {
+          "id": "zootopia-nick",
+          "name": "尼克 · 狐狸搭档",
+          "emoji": "🦊",
+          "rarity": "闪耀",
+          "hue": 0.08,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-nick.png"
+        },
+        {
+          "id": "zootopia-flash",
+          "name": "闪电 · 极速办事",
+          "emoji": "🦥",
+          "rarity": "稀有",
+          "hue": 0.3,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-flash.png"
+        },
+        {
+          "id": "zootopia-bogo",
+          "name": "牛局长 · 威严站姿",
+          "emoji": "🐃",
+          "rarity": "稀有",
+          "hue": 0.62,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-bogo.png"
+        },
+        {
+          "id": "zootopia-clawhauser",
+          "name": "豹警官 · 开心自拍",
+          "emoji": "🐆",
+          "rarity": "闪耀",
+          "hue": 0.11,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-clawhauser.png"
+        },
+        {
+          "id": "zootopia-gazelle",
+          "name": "夏奇羊 · 舞台明星",
+          "emoji": "🦌",
+          "rarity": "传奇",
+          "hue": 0.94,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-gazelle.png"
+        }
+      ]
+    },
+    {
+      "name": "超级飞侠",
+      "stickers": [
+        {
+          "id": "superwings-jett",
+          "name": "乐迪 · 准时送达",
+          "emoji": "✈️",
+          "rarity": "传奇",
+          "hue": 0.0,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-jett.png"
+        },
+        {
+          "id": "superwings-dizzy",
+          "name": "小爱 · 救援出动",
+          "emoji": "🚁",
+          "rarity": "闪耀",
+          "hue": 0.92,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-dizzy.png"
+        },
+        {
+          "id": "superwings-donnie",
+          "name": "多多 · 工程变形",
+          "emoji": "🛠️",
+          "rarity": "稀有",
+          "hue": 0.12,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-donnie.png"
+        },
+        {
+          "id": "superwings-paul",
+          "name": "包警长 · 安全巡逻",
+          "emoji": "🚓",
+          "rarity": "稀有",
+          "hue": 0.6,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-paul.png"
+        },
+        {
+          "id": "superwings-mira",
+          "name": "米莉 · 深海任务",
+          "emoji": "🌊",
+          "rarity": "闪耀",
+          "hue": 0.35,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-mira.png"
         }
       ]
     }
