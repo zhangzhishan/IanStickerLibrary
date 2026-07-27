@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "packs": [
     {
       "name": "在线奥特英雄 Vol.1",
@@ -133,6 +133,756 @@
           "rarity": "闪耀",
           "hue": 0.35,
           "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-mira.png"
+        }
+      ]
+    },
+    {
+      "name": "汪汪队",
+      "poseOverrides": true,
+      "stickers": [
+        {
+          "id": "pose-pups-chase-action-1",
+          "replacesDefinitionID": "pups-chase-action-1",
+          "name": "阿奇 · 整装出动",
+          "emoji": "🐕‍🦺",
+          "rarity": "普通",
+          "hue": 0.6549999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-1.png"
+        },
+        {
+          "id": "pose-pups-chase-action-2",
+          "replacesDefinitionID": "pups-chase-action-2",
+          "name": "阿奇 · 极速救援",
+          "emoji": "🐕‍🦺",
+          "rarity": "稀有",
+          "hue": 0.73,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-2.png"
+        },
+        {
+          "id": "pose-pups-chase-action-3",
+          "replacesDefinitionID": "pups-chase-action-3",
+          "name": "阿奇 · 勇敢飞跃",
+          "emoji": "🐕‍🦺",
+          "rarity": "闪耀",
+          "hue": 0.8049999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-3.png"
+        },
+        {
+          "id": "pose-pups-chase-action-4",
+          "replacesDefinitionID": "pups-chase-action-4",
+          "name": "阿奇 · 任务完成",
+          "emoji": "🐕‍🦺",
+          "rarity": "传奇",
+          "hue": 0.8799999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-4.png"
+        },
+        {
+          "id": "pose-pups-chase-action-5",
+          "replacesDefinitionID": "pups-chase-action-5",
+          "name": "阿奇 · 开心休息",
+          "emoji": "🐕‍🦺",
+          "rarity": "稀有",
+          "hue": 0.955,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-5.png"
+        },
+        {
+          "id": "pose-pups-marshall-action-1",
+          "replacesDefinitionID": "pups-marshall-action-1",
+          "name": "毛毛 · 整装出动",
+          "emoji": "🚒",
+          "rarity": "普通",
+          "hue": 0.08499999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-1.png"
+        },
+        {
+          "id": "pose-pups-marshall-action-2",
+          "replacesDefinitionID": "pups-marshall-action-2",
+          "name": "毛毛 · 极速救援",
+          "emoji": "🚒",
+          "rarity": "稀有",
+          "hue": 0.16,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-2.png"
+        },
+        {
+          "id": "pose-pups-marshall-action-3",
+          "replacesDefinitionID": "pups-marshall-action-3",
+          "name": "毛毛 · 勇敢飞跃",
+          "emoji": "🚒",
+          "rarity": "闪耀",
+          "hue": 0.235,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-3.png"
+        },
+        {
+          "id": "pose-pups-marshall-action-4",
+          "replacesDefinitionID": "pups-marshall-action-4",
+          "name": "毛毛 · 任务完成",
+          "emoji": "🚒",
+          "rarity": "传奇",
+          "hue": 0.31,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-4.png"
+        },
+        {
+          "id": "pose-pups-marshall-action-5",
+          "replacesDefinitionID": "pups-marshall-action-5",
+          "name": "毛毛 · 开心休息",
+          "emoji": "🚒",
+          "rarity": "稀有",
+          "hue": 0.385,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-5.png"
+        },
+        {
+          "id": "pose-pups-skye-action-1",
+          "replacesDefinitionID": "pups-skye-action-1",
+          "name": "天天 · 整装出动",
+          "emoji": "🚁",
+          "rarity": "普通",
+          "hue": 0.985,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-1.png"
+        },
+        {
+          "id": "pose-pups-skye-action-2",
+          "replacesDefinitionID": "pups-skye-action-2",
+          "name": "天天 · 极速救援",
+          "emoji": "🚁",
+          "rarity": "稀有",
+          "hue": 0.06000000000000005,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-2.png"
+        },
+        {
+          "id": "pose-pups-skye-action-3",
+          "replacesDefinitionID": "pups-skye-action-3",
+          "name": "天天 · 勇敢飞跃",
+          "emoji": "🚁",
+          "rarity": "闪耀",
+          "hue": 0.135,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-3.png"
+        },
+        {
+          "id": "pose-pups-skye-action-4",
+          "replacesDefinitionID": "pups-skye-action-4",
+          "name": "天天 · 任务完成",
+          "emoji": "🚁",
+          "rarity": "传奇",
+          "hue": 0.20999999999999996,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-4.png"
+        },
+        {
+          "id": "pose-pups-skye-action-5",
+          "replacesDefinitionID": "pups-skye-action-5",
+          "name": "天天 · 开心休息",
+          "emoji": "🚁",
+          "rarity": "稀有",
+          "hue": 0.28500000000000014,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-5.png"
+        },
+        {
+          "id": "pose-pups-rubble-action-1",
+          "replacesDefinitionID": "pups-rubble-action-1",
+          "name": "小砾 · 整装出动",
+          "emoji": "🚧",
+          "rarity": "普通",
+          "hue": 0.195,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-1.png"
+        },
+        {
+          "id": "pose-pups-rubble-action-2",
+          "replacesDefinitionID": "pups-rubble-action-2",
+          "name": "小砾 · 极速救援",
+          "emoji": "🚧",
+          "rarity": "稀有",
+          "hue": 0.27,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-2.png"
+        },
+        {
+          "id": "pose-pups-rubble-action-3",
+          "replacesDefinitionID": "pups-rubble-action-3",
+          "name": "小砾 · 勇敢飞跃",
+          "emoji": "🚧",
+          "rarity": "闪耀",
+          "hue": 0.345,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-3.png"
+        },
+        {
+          "id": "pose-pups-rubble-action-4",
+          "replacesDefinitionID": "pups-rubble-action-4",
+          "name": "小砾 · 任务完成",
+          "emoji": "🚧",
+          "rarity": "传奇",
+          "hue": 0.42,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-4.png"
+        },
+        {
+          "id": "pose-pups-rubble-action-5",
+          "replacesDefinitionID": "pups-rubble-action-5",
+          "name": "小砾 · 开心休息",
+          "emoji": "🚧",
+          "rarity": "稀有",
+          "hue": 0.495,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-5.png"
+        }
+      ]
+    },
+    {
+      "name": "超级马里奥",
+      "poseOverrides": true,
+      "stickers": [
+        {
+          "id": "pose-mario-mario-action-1",
+          "replacesDefinitionID": "mario-mario-action-1",
+          "name": "马里奥 · 超级跳跃",
+          "emoji": "🍄",
+          "rarity": "普通",
+          "hue": 0.075,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-1.png"
+        },
+        {
+          "id": "pose-mario-mario-action-2",
+          "replacesDefinitionID": "mario-mario-action-2",
+          "name": "马里奥 · 全速冲刺",
+          "emoji": "🍄",
+          "rarity": "稀有",
+          "hue": 0.15,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-2.png"
+        },
+        {
+          "id": "pose-mario-mario-action-3",
+          "replacesDefinitionID": "mario-mario-action-3",
+          "name": "马里奥 · 蘑菇能量",
+          "emoji": "🍄",
+          "rarity": "闪耀",
+          "hue": 0.22499999999999998,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-3.png"
+        },
+        {
+          "id": "pose-mario-mario-action-4",
+          "replacesDefinitionID": "mario-mario-action-4",
+          "name": "马里奥 · 过关庆祝",
+          "emoji": "🍄",
+          "rarity": "传奇",
+          "hue": 0.3,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-4.png"
+        },
+        {
+          "id": "pose-mario-mario-action-5",
+          "replacesDefinitionID": "mario-mario-action-5",
+          "name": "马里奥 · 卡丁车时刻",
+          "emoji": "🍄",
+          "rarity": "稀有",
+          "hue": 0.375,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-5.png"
+        },
+        {
+          "id": "pose-mario-luigi-action-1",
+          "replacesDefinitionID": "mario-luigi-action-1",
+          "name": "路易吉 · 超级跳跃",
+          "emoji": "🟢",
+          "rarity": "普通",
+          "hue": 0.435,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-1.png"
+        },
+        {
+          "id": "pose-mario-luigi-action-2",
+          "replacesDefinitionID": "mario-luigi-action-2",
+          "name": "路易吉 · 全速冲刺",
+          "emoji": "🟢",
+          "rarity": "稀有",
+          "hue": 0.51,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-2.png"
+        },
+        {
+          "id": "pose-mario-luigi-action-3",
+          "replacesDefinitionID": "mario-luigi-action-3",
+          "name": "路易吉 · 蘑菇能量",
+          "emoji": "🟢",
+          "rarity": "闪耀",
+          "hue": 0.585,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-3.png"
+        },
+        {
+          "id": "pose-mario-luigi-action-4",
+          "replacesDefinitionID": "mario-luigi-action-4",
+          "name": "路易吉 · 过关庆祝",
+          "emoji": "🟢",
+          "rarity": "传奇",
+          "hue": 0.6599999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-4.png"
+        },
+        {
+          "id": "pose-mario-luigi-action-5",
+          "replacesDefinitionID": "mario-luigi-action-5",
+          "name": "路易吉 · 卡丁车时刻",
+          "emoji": "🟢",
+          "rarity": "稀有",
+          "hue": 0.735,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-5.png"
+        },
+        {
+          "id": "pose-mario-yoshi-action-1",
+          "replacesDefinitionID": "mario-yoshi-action-1",
+          "name": "耀西 · 超级跳跃",
+          "emoji": "🦖",
+          "rarity": "普通",
+          "hue": 0.375,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-1.png"
+        },
+        {
+          "id": "pose-mario-yoshi-action-2",
+          "replacesDefinitionID": "mario-yoshi-action-2",
+          "name": "耀西 · 全速冲刺",
+          "emoji": "🦖",
+          "rarity": "稀有",
+          "hue": 0.44999999999999996,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-2.png"
+        },
+        {
+          "id": "pose-mario-yoshi-action-3",
+          "replacesDefinitionID": "mario-yoshi-action-3",
+          "name": "耀西 · 蘑菇能量",
+          "emoji": "🦖",
+          "rarity": "闪耀",
+          "hue": 0.5249999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-3.png"
+        },
+        {
+          "id": "pose-mario-yoshi-action-4",
+          "replacesDefinitionID": "mario-yoshi-action-4",
+          "name": "耀西 · 过关庆祝",
+          "emoji": "🦖",
+          "rarity": "传奇",
+          "hue": 0.6,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-4.png"
+        },
+        {
+          "id": "pose-mario-yoshi-action-5",
+          "replacesDefinitionID": "mario-yoshi-action-5",
+          "name": "耀西 · 卡丁车时刻",
+          "emoji": "🦖",
+          "rarity": "稀有",
+          "hue": 0.675,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-5.png"
+        },
+        {
+          "id": "pose-mario-star-action-1",
+          "replacesDefinitionID": "mario-star-action-1",
+          "name": "无敌星 · 超级跳跃",
+          "emoji": "⭐️",
+          "rarity": "普通",
+          "hue": 0.20500000000000002,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-1.png"
+        },
+        {
+          "id": "pose-mario-star-action-2",
+          "replacesDefinitionID": "mario-star-action-2",
+          "name": "无敌星 · 全速冲刺",
+          "emoji": "⭐️",
+          "rarity": "稀有",
+          "hue": 0.28,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-2.png"
+        },
+        {
+          "id": "pose-mario-star-action-3",
+          "replacesDefinitionID": "mario-star-action-3",
+          "name": "无敌星 · 蘑菇能量",
+          "emoji": "⭐️",
+          "rarity": "闪耀",
+          "hue": 0.355,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-3.png"
+        },
+        {
+          "id": "pose-mario-star-action-4",
+          "replacesDefinitionID": "mario-star-action-4",
+          "name": "无敌星 · 过关庆祝",
+          "emoji": "⭐️",
+          "rarity": "传奇",
+          "hue": 0.43,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-4.png"
+        },
+        {
+          "id": "pose-mario-star-action-5",
+          "replacesDefinitionID": "mario-star-action-5",
+          "name": "无敌星 · 卡丁车时刻",
+          "emoji": "⭐️",
+          "rarity": "稀有",
+          "hue": 0.505,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-5.png"
+        }
+      ]
+    },
+    {
+      "name": "蜘蛛宇宙",
+      "poseOverrides": true,
+      "stickers": [
+        {
+          "id": "pose-spider-peter-action-1",
+          "replacesDefinitionID": "spider-peter-action-1",
+          "name": "蜘蛛侠 · 蛛丝摆荡",
+          "emoji": "🕷️",
+          "rarity": "普通",
+          "hue": 0.05499999999999994,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-1.png"
+        },
+        {
+          "id": "pose-spider-peter-action-2",
+          "replacesDefinitionID": "spider-peter-action-2",
+          "name": "蜘蛛侠 · 高楼飞跃",
+          "emoji": "🕷️",
+          "rarity": "稀有",
+          "hue": 0.1299999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-2.png"
+        },
+        {
+          "id": "pose-spider-peter-action-3",
+          "replacesDefinitionID": "spider-peter-action-3",
+          "name": "蜘蛛侠 · 战斗姿势",
+          "emoji": "🕷️",
+          "rarity": "闪耀",
+          "hue": 0.20500000000000007,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-3.png"
+        },
+        {
+          "id": "pose-spider-peter-action-4",
+          "replacesDefinitionID": "spider-peter-action-4",
+          "name": "蜘蛛侠 · 守护城市",
+          "emoji": "🕷️",
+          "rarity": "传奇",
+          "hue": 0.28,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-4.png"
+        },
+        {
+          "id": "pose-spider-peter-action-5",
+          "replacesDefinitionID": "spider-peter-action-5",
+          "name": "蜘蛛侠 · 英雄合影",
+          "emoji": "🕷️",
+          "rarity": "稀有",
+          "hue": 0.355,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-5.png"
+        },
+        {
+          "id": "pose-spider-miles-action-1",
+          "replacesDefinitionID": "spider-miles-action-1",
+          "name": "迈尔斯 · 蛛丝摆荡",
+          "emoji": "🕸️",
+          "rarity": "普通",
+          "hue": 0.855,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-1.png"
+        },
+        {
+          "id": "pose-spider-miles-action-2",
+          "replacesDefinitionID": "spider-miles-action-2",
+          "name": "迈尔斯 · 高楼飞跃",
+          "emoji": "🕸️",
+          "rarity": "稀有",
+          "hue": 0.93,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-2.png"
+        },
+        {
+          "id": "pose-spider-miles-action-3",
+          "replacesDefinitionID": "spider-miles-action-3",
+          "name": "迈尔斯 · 战斗姿势",
+          "emoji": "🕸️",
+          "rarity": "闪耀",
+          "hue": 0.004999999999999893,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-3.png"
+        },
+        {
+          "id": "pose-spider-miles-action-4",
+          "replacesDefinitionID": "spider-miles-action-4",
+          "name": "迈尔斯 · 守护城市",
+          "emoji": "🕸️",
+          "rarity": "传奇",
+          "hue": 0.08000000000000007,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-4.png"
+        },
+        {
+          "id": "pose-spider-miles-action-5",
+          "replacesDefinitionID": "spider-miles-action-5",
+          "name": "迈尔斯 · 英雄合影",
+          "emoji": "🕸️",
+          "rarity": "稀有",
+          "hue": 0.15500000000000003,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-5.png"
+        },
+        {
+          "id": "pose-spider-gwen-action-1",
+          "replacesDefinitionID": "spider-gwen-action-1",
+          "name": "幽灵蜘蛛 · 蛛丝摆荡",
+          "emoji": "🤍",
+          "rarity": "普通",
+          "hue": 0.955,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-1.png"
+        },
+        {
+          "id": "pose-spider-gwen-action-2",
+          "replacesDefinitionID": "spider-gwen-action-2",
+          "name": "幽灵蜘蛛 · 高楼飞跃",
+          "emoji": "🤍",
+          "rarity": "稀有",
+          "hue": 0.030000000000000027,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-2.png"
+        },
+        {
+          "id": "pose-spider-gwen-action-3",
+          "replacesDefinitionID": "spider-gwen-action-3",
+          "name": "幽灵蜘蛛 · 战斗姿势",
+          "emoji": "🤍",
+          "rarity": "闪耀",
+          "hue": 0.10499999999999998,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-3.png"
+        },
+        {
+          "id": "pose-spider-gwen-action-4",
+          "replacesDefinitionID": "spider-gwen-action-4",
+          "name": "幽灵蜘蛛 · 守护城市",
+          "emoji": "🤍",
+          "rarity": "传奇",
+          "hue": 0.17999999999999994,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-4.png"
+        },
+        {
+          "id": "pose-spider-gwen-action-5",
+          "replacesDefinitionID": "spider-gwen-action-5",
+          "name": "幽灵蜘蛛 · 英雄合影",
+          "emoji": "🤍",
+          "rarity": "稀有",
+          "hue": 0.2549999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-5.png"
+        }
+      ]
+    },
+    {
+      "name": "奥特曼",
+      "poseOverrides": true,
+      "stickers": [
+        {
+          "id": "pose-ultra-tiga-action-1",
+          "replacesDefinitionID": "ultra-tiga-action-1",
+          "name": "迪迦 · 闪耀变身",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "普通",
+          "hue": 0.815,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-1.png"
+        },
+        {
+          "id": "pose-ultra-tiga-action-2",
+          "replacesDefinitionID": "ultra-tiga-action-2",
+          "name": "迪迦 · 光线必杀",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "稀有",
+          "hue": 0.89,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-2.png"
+        },
+        {
+          "id": "pose-ultra-tiga-action-3",
+          "replacesDefinitionID": "ultra-tiga-action-3",
+          "name": "迪迦 · 飞向宇宙",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "闪耀",
+          "hue": 0.965,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-3.png"
+        },
+        {
+          "id": "pose-ultra-tiga-action-4",
+          "replacesDefinitionID": "ultra-tiga-action-4",
+          "name": "迪迦 · 胜利姿势",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "传奇",
+          "hue": 0.040000000000000036,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-4.png"
+        },
+        {
+          "id": "pose-ultra-tiga-action-5",
+          "replacesDefinitionID": "ultra-tiga-action-5",
+          "name": "迪迦 · 能量充满",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "稀有",
+          "hue": 0.11499999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-5.png"
+        },
+        {
+          "id": "pose-ultra-zero-action-1",
+          "replacesDefinitionID": "ultra-zero-action-1",
+          "name": "赛罗 · 闪耀变身",
+          "emoji": "⚡️",
+          "rarity": "普通",
+          "hue": 0.625,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-1.png"
+        },
+        {
+          "id": "pose-ultra-zero-action-2",
+          "replacesDefinitionID": "ultra-zero-action-2",
+          "name": "赛罗 · 光线必杀",
+          "emoji": "⚡️",
+          "rarity": "稀有",
+          "hue": 0.7000000000000001,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-2.png"
+        },
+        {
+          "id": "pose-ultra-zero-action-3",
+          "replacesDefinitionID": "ultra-zero-action-3",
+          "name": "赛罗 · 飞向宇宙",
+          "emoji": "⚡️",
+          "rarity": "闪耀",
+          "hue": 0.775,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-3.png"
+        },
+        {
+          "id": "pose-ultra-zero-action-4",
+          "replacesDefinitionID": "ultra-zero-action-4",
+          "name": "赛罗 · 胜利姿势",
+          "emoji": "⚡️",
+          "rarity": "传奇",
+          "hue": 0.8500000000000001,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-4.png"
+        },
+        {
+          "id": "pose-ultra-zero-action-5",
+          "replacesDefinitionID": "ultra-zero-action-5",
+          "name": "赛罗 · 能量充满",
+          "emoji": "⚡️",
+          "rarity": "稀有",
+          "hue": 0.925,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-5.png"
+        },
+        {
+          "id": "pose-ultra-z-action-1",
+          "replacesDefinitionID": "ultra-z-action-1",
+          "name": "泽塔 · 闪耀变身",
+          "emoji": "💠",
+          "rarity": "普通",
+          "hue": 0.6749999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-1.png"
+        },
+        {
+          "id": "pose-ultra-z-action-2",
+          "replacesDefinitionID": "ultra-z-action-2",
+          "name": "泽塔 · 光线必杀",
+          "emoji": "💠",
+          "rarity": "稀有",
+          "hue": 0.75,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-2.png"
+        },
+        {
+          "id": "pose-ultra-z-action-3",
+          "replacesDefinitionID": "ultra-z-action-3",
+          "name": "泽塔 · 飞向宇宙",
+          "emoji": "💠",
+          "rarity": "闪耀",
+          "hue": 0.825,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-3.png"
+        },
+        {
+          "id": "pose-ultra-z-action-4",
+          "replacesDefinitionID": "ultra-z-action-4",
+          "name": "泽塔 · 胜利姿势",
+          "emoji": "💠",
+          "rarity": "传奇",
+          "hue": 0.8999999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-4.png"
+        },
+        {
+          "id": "pose-ultra-z-action-5",
+          "replacesDefinitionID": "ultra-z-action-5",
+          "name": "泽塔 · 能量充满",
+          "emoji": "💠",
+          "rarity": "稀有",
+          "hue": 0.975,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-5.png"
+        },
+        {
+          "id": "pose-ultra-light-action-1",
+          "replacesDefinitionID": "ultra-light-action-1",
+          "name": "特利迦 · 闪耀变身",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "普通",
+          "hue": 0.22499999999999998,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-1.png"
+        },
+        {
+          "id": "pose-ultra-light-action-2",
+          "replacesDefinitionID": "ultra-light-action-2",
+          "name": "特利迦 · 光线必杀",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "稀有",
+          "hue": 0.3,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-2.png"
+        },
+        {
+          "id": "pose-ultra-light-action-3",
+          "replacesDefinitionID": "ultra-light-action-3",
+          "name": "特利迦 · 飞向宇宙",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "闪耀",
+          "hue": 0.375,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-3.png"
+        },
+        {
+          "id": "pose-ultra-light-action-4",
+          "replacesDefinitionID": "ultra-light-action-4",
+          "name": "特利迦 · 胜利姿势",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "传奇",
+          "hue": 0.44999999999999996,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-4.png"
+        },
+        {
+          "id": "pose-ultra-light-action-5",
+          "replacesDefinitionID": "ultra-light-action-5",
+          "name": "特利迦 · 能量充满",
+          "emoji": "🦸🏻‍♂️",
+          "rarity": "稀有",
+          "hue": 0.525,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-5.png"
+        }
+      ]
+    },
+    {
+      "name": "神秘奖励",
+      "poseOverrides": true,
+      "stickers": [
+        {
+          "id": "pose-bonus-rainbow-action-1",
+          "replacesDefinitionID": "bonus-rainbow-action-1",
+          "name": "彩虹幸运章 · 幸运降临",
+          "emoji": "🌈",
+          "rarity": "普通",
+          "hue": 0.8949999999999999,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-1.png"
+        },
+        {
+          "id": "pose-bonus-rainbow-action-2",
+          "replacesDefinitionID": "bonus-rainbow-action-2",
+          "name": "彩虹幸运章 · 星光闪耀",
+          "emoji": "🌈",
+          "rarity": "稀有",
+          "hue": 0.97,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-2.png"
+        },
+        {
+          "id": "pose-bonus-rainbow-action-3",
+          "replacesDefinitionID": "bonus-rainbow-action-3",
+          "name": "彩虹幸运章 · 梦幻飞行",
+          "emoji": "🌈",
+          "rarity": "闪耀",
+          "hue": 0.04499999999999993,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-3.png"
+        },
+        {
+          "id": "pose-bonus-rainbow-action-4",
+          "replacesDefinitionID": "bonus-rainbow-action-4",
+          "name": "彩虹幸运章 · 派对时刻",
+          "emoji": "🌈",
+          "rarity": "传奇",
+          "hue": 0.11999999999999988,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-4.png"
+        },
+        {
+          "id": "pose-bonus-rainbow-action-5",
+          "replacesDefinitionID": "bonus-rainbow-action-5",
+          "name": "彩虹幸运章 · 彩虹冲刺",
+          "emoji": "🌈",
+          "rarity": "稀有",
+          "hue": 0.19499999999999984,
+          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-5.png"
         }
       ]
     }
