@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "packs": [
     {
       "name": "在线奥特英雄 Vol.1",
@@ -10,7 +10,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "传奇",
           "hue": 0.74,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-tiga-official.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/ultraman-tiga-official.png"
         },
         {
           "id": "ultraman-zero-official",
@@ -18,7 +18,7 @@
           "emoji": "⚡️",
           "rarity": "闪耀",
           "hue": 0.55,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-zero-official.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/ultraman-zero-official.png"
         },
         {
           "id": "ultraman-z-official",
@@ -26,7 +26,7 @@
           "emoji": "💠",
           "rarity": "稀有",
           "hue": 0.6,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-z-official.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/ultraman-z-official.png"
         },
         {
           "id": "ultraman-trigger-official",
@@ -34,7 +34,7 @@
           "emoji": "✨",
           "rarity": "传奇",
           "hue": 0.15,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/ultraman-trigger-official.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/ultraman-trigger-official.png"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "emoji": "🐰",
           "rarity": "传奇",
           "hue": 0.58,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-judy.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-judy.png"
         },
         {
           "id": "zootopia-nick",
@@ -55,7 +55,7 @@
           "emoji": "🦊",
           "rarity": "闪耀",
           "hue": 0.08,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-nick.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-nick.png"
         },
         {
           "id": "zootopia-flash",
@@ -63,7 +63,7 @@
           "emoji": "🦥",
           "rarity": "稀有",
           "hue": 0.3,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-flash.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-flash.png"
         },
         {
           "id": "zootopia-bogo",
@@ -71,7 +71,7 @@
           "emoji": "🐃",
           "rarity": "稀有",
           "hue": 0.62,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-bogo.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-bogo.png"
         },
         {
           "id": "zootopia-clawhauser",
@@ -79,7 +79,7 @@
           "emoji": "🐆",
           "rarity": "闪耀",
           "hue": 0.11,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-clawhauser.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-clawhauser.png"
         },
         {
           "id": "zootopia-gazelle",
@@ -87,7 +87,7 @@
           "emoji": "🦌",
           "rarity": "传奇",
           "hue": 0.94,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/zootopia-gazelle.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/zootopia-gazelle.png"
         }
       ]
     },
@@ -100,7 +100,7 @@
           "emoji": "✈️",
           "rarity": "传奇",
           "hue": 0.0,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-jett.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/superwings-jett.png"
         },
         {
           "id": "superwings-dizzy",
@@ -108,7 +108,7 @@
           "emoji": "🚁",
           "rarity": "闪耀",
           "hue": 0.92,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-dizzy.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/superwings-dizzy.png"
         },
         {
           "id": "superwings-donnie",
@@ -116,7 +116,7 @@
           "emoji": "🛠️",
           "rarity": "稀有",
           "hue": 0.12,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-donnie.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/superwings-donnie.png"
         },
         {
           "id": "superwings-paul",
@@ -124,7 +124,7 @@
           "emoji": "🚓",
           "rarity": "稀有",
           "hue": 0.6,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-paul.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/superwings-paul.png"
         },
         {
           "id": "superwings-mira",
@@ -132,7 +132,7 @@
           "emoji": "🌊",
           "rarity": "闪耀",
           "hue": 0.35,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/superwings-mira.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/superwings-mira.png"
         }
       ]
     },
@@ -147,7 +147,7 @@
           "emoji": "🐕‍🦺",
           "rarity": "普通",
           "hue": 0.6549999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-chase-action-1.png"
         },
         {
           "id": "pose-pups-chase-action-2",
@@ -156,7 +156,7 @@
           "emoji": "🐕‍🦺",
           "rarity": "稀有",
           "hue": 0.73,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-chase-action-2.png"
         },
         {
           "id": "pose-pups-chase-action-3",
@@ -165,7 +165,7 @@
           "emoji": "🐕‍🦺",
           "rarity": "闪耀",
           "hue": 0.8049999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-chase-action-3.png"
         },
         {
           "id": "pose-pups-chase-action-4",
@@ -174,7 +174,7 @@
           "emoji": "🐕‍🦺",
           "rarity": "传奇",
           "hue": 0.8799999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-chase-action-4.png"
         },
         {
           "id": "pose-pups-chase-action-5",
@@ -183,7 +183,7 @@
           "emoji": "🐕‍🦺",
           "rarity": "稀有",
           "hue": 0.955,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-chase-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-chase-action-5.png"
         },
         {
           "id": "pose-pups-marshall-action-1",
@@ -192,7 +192,7 @@
           "emoji": "🚒",
           "rarity": "普通",
           "hue": 0.08499999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-marshall-action-1.png"
         },
         {
           "id": "pose-pups-marshall-action-2",
@@ -201,7 +201,7 @@
           "emoji": "🚒",
           "rarity": "稀有",
           "hue": 0.16,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-marshall-action-2.png"
         },
         {
           "id": "pose-pups-marshall-action-3",
@@ -210,7 +210,7 @@
           "emoji": "🚒",
           "rarity": "闪耀",
           "hue": 0.235,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-marshall-action-3.png"
         },
         {
           "id": "pose-pups-marshall-action-4",
@@ -219,7 +219,7 @@
           "emoji": "🚒",
           "rarity": "传奇",
           "hue": 0.31,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-marshall-action-4.png"
         },
         {
           "id": "pose-pups-marshall-action-5",
@@ -228,7 +228,7 @@
           "emoji": "🚒",
           "rarity": "稀有",
           "hue": 0.385,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-marshall-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-marshall-action-5.png"
         },
         {
           "id": "pose-pups-skye-action-1",
@@ -237,7 +237,7 @@
           "emoji": "🚁",
           "rarity": "普通",
           "hue": 0.985,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-skye-action-1.png"
         },
         {
           "id": "pose-pups-skye-action-2",
@@ -246,7 +246,7 @@
           "emoji": "🚁",
           "rarity": "稀有",
           "hue": 0.06000000000000005,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-skye-action-2.png"
         },
         {
           "id": "pose-pups-skye-action-3",
@@ -255,7 +255,7 @@
           "emoji": "🚁",
           "rarity": "闪耀",
           "hue": 0.135,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-skye-action-3.png"
         },
         {
           "id": "pose-pups-skye-action-4",
@@ -264,7 +264,7 @@
           "emoji": "🚁",
           "rarity": "传奇",
           "hue": 0.20999999999999996,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-skye-action-4.png"
         },
         {
           "id": "pose-pups-skye-action-5",
@@ -273,7 +273,7 @@
           "emoji": "🚁",
           "rarity": "稀有",
           "hue": 0.28500000000000014,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-skye-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-skye-action-5.png"
         },
         {
           "id": "pose-pups-rubble-action-1",
@@ -282,7 +282,7 @@
           "emoji": "🚧",
           "rarity": "普通",
           "hue": 0.195,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-rubble-action-1.png"
         },
         {
           "id": "pose-pups-rubble-action-2",
@@ -291,7 +291,7 @@
           "emoji": "🚧",
           "rarity": "稀有",
           "hue": 0.27,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-rubble-action-2.png"
         },
         {
           "id": "pose-pups-rubble-action-3",
@@ -300,7 +300,7 @@
           "emoji": "🚧",
           "rarity": "闪耀",
           "hue": 0.345,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-rubble-action-3.png"
         },
         {
           "id": "pose-pups-rubble-action-4",
@@ -309,7 +309,7 @@
           "emoji": "🚧",
           "rarity": "传奇",
           "hue": 0.42,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-rubble-action-4.png"
         },
         {
           "id": "pose-pups-rubble-action-5",
@@ -318,7 +318,7 @@
           "emoji": "🚧",
           "rarity": "稀有",
           "hue": 0.495,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/pups-rubble-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/pups-rubble-action-5.png"
         }
       ]
     },
@@ -333,7 +333,7 @@
           "emoji": "🍄",
           "rarity": "普通",
           "hue": 0.075,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-mario-action-1.png"
         },
         {
           "id": "pose-mario-mario-action-2",
@@ -342,7 +342,7 @@
           "emoji": "🍄",
           "rarity": "稀有",
           "hue": 0.15,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-mario-action-2.png"
         },
         {
           "id": "pose-mario-mario-action-3",
@@ -351,7 +351,7 @@
           "emoji": "🍄",
           "rarity": "闪耀",
           "hue": 0.22499999999999998,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-mario-action-3.png"
         },
         {
           "id": "pose-mario-mario-action-4",
@@ -360,7 +360,7 @@
           "emoji": "🍄",
           "rarity": "传奇",
           "hue": 0.3,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-mario-action-4.png"
         },
         {
           "id": "pose-mario-mario-action-5",
@@ -369,7 +369,7 @@
           "emoji": "🍄",
           "rarity": "稀有",
           "hue": 0.375,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-mario-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-mario-action-5.png"
         },
         {
           "id": "pose-mario-luigi-action-1",
@@ -378,7 +378,7 @@
           "emoji": "🟢",
           "rarity": "普通",
           "hue": 0.435,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-luigi-action-1.png"
         },
         {
           "id": "pose-mario-luigi-action-2",
@@ -387,7 +387,7 @@
           "emoji": "🟢",
           "rarity": "稀有",
           "hue": 0.51,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-luigi-action-2.png"
         },
         {
           "id": "pose-mario-luigi-action-3",
@@ -396,7 +396,7 @@
           "emoji": "🟢",
           "rarity": "闪耀",
           "hue": 0.585,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-luigi-action-3.png"
         },
         {
           "id": "pose-mario-luigi-action-4",
@@ -405,7 +405,7 @@
           "emoji": "🟢",
           "rarity": "传奇",
           "hue": 0.6599999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-luigi-action-4.png"
         },
         {
           "id": "pose-mario-luigi-action-5",
@@ -414,7 +414,7 @@
           "emoji": "🟢",
           "rarity": "稀有",
           "hue": 0.735,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-luigi-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-luigi-action-5.png"
         },
         {
           "id": "pose-mario-yoshi-action-1",
@@ -423,7 +423,7 @@
           "emoji": "🦖",
           "rarity": "普通",
           "hue": 0.375,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-yoshi-action-1.png"
         },
         {
           "id": "pose-mario-yoshi-action-2",
@@ -432,7 +432,7 @@
           "emoji": "🦖",
           "rarity": "稀有",
           "hue": 0.44999999999999996,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-yoshi-action-2.png"
         },
         {
           "id": "pose-mario-yoshi-action-3",
@@ -441,7 +441,7 @@
           "emoji": "🦖",
           "rarity": "闪耀",
           "hue": 0.5249999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-yoshi-action-3.png"
         },
         {
           "id": "pose-mario-yoshi-action-4",
@@ -450,7 +450,7 @@
           "emoji": "🦖",
           "rarity": "传奇",
           "hue": 0.6,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-yoshi-action-4.png"
         },
         {
           "id": "pose-mario-yoshi-action-5",
@@ -459,7 +459,7 @@
           "emoji": "🦖",
           "rarity": "稀有",
           "hue": 0.675,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-yoshi-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-yoshi-action-5.png"
         },
         {
           "id": "pose-mario-star-action-1",
@@ -468,7 +468,7 @@
           "emoji": "⭐️",
           "rarity": "普通",
           "hue": 0.20500000000000002,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-star-action-1.png"
         },
         {
           "id": "pose-mario-star-action-2",
@@ -477,7 +477,7 @@
           "emoji": "⭐️",
           "rarity": "稀有",
           "hue": 0.28,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-star-action-2.png"
         },
         {
           "id": "pose-mario-star-action-3",
@@ -486,7 +486,7 @@
           "emoji": "⭐️",
           "rarity": "闪耀",
           "hue": 0.355,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-star-action-3.png"
         },
         {
           "id": "pose-mario-star-action-4",
@@ -495,7 +495,7 @@
           "emoji": "⭐️",
           "rarity": "传奇",
           "hue": 0.43,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-star-action-4.png"
         },
         {
           "id": "pose-mario-star-action-5",
@@ -504,7 +504,7 @@
           "emoji": "⭐️",
           "rarity": "稀有",
           "hue": 0.505,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/mario-star-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/mario-star-action-5.png"
         }
       ]
     },
@@ -519,7 +519,7 @@
           "emoji": "🕷️",
           "rarity": "普通",
           "hue": 0.05499999999999994,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-peter-action-1.png"
         },
         {
           "id": "pose-spider-peter-action-2",
@@ -528,7 +528,7 @@
           "emoji": "🕷️",
           "rarity": "稀有",
           "hue": 0.1299999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-peter-action-2.png"
         },
         {
           "id": "pose-spider-peter-action-3",
@@ -537,7 +537,7 @@
           "emoji": "🕷️",
           "rarity": "闪耀",
           "hue": 0.20500000000000007,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-peter-action-3.png"
         },
         {
           "id": "pose-spider-peter-action-4",
@@ -546,7 +546,7 @@
           "emoji": "🕷️",
           "rarity": "传奇",
           "hue": 0.28,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-peter-action-4.png"
         },
         {
           "id": "pose-spider-peter-action-5",
@@ -555,7 +555,7 @@
           "emoji": "🕷️",
           "rarity": "稀有",
           "hue": 0.355,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-peter-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-peter-action-5.png"
         },
         {
           "id": "pose-spider-miles-action-1",
@@ -564,7 +564,7 @@
           "emoji": "🕸️",
           "rarity": "普通",
           "hue": 0.855,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-miles-action-1.png"
         },
         {
           "id": "pose-spider-miles-action-2",
@@ -573,7 +573,7 @@
           "emoji": "🕸️",
           "rarity": "稀有",
           "hue": 0.93,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-miles-action-2.png"
         },
         {
           "id": "pose-spider-miles-action-3",
@@ -582,7 +582,7 @@
           "emoji": "🕸️",
           "rarity": "闪耀",
           "hue": 0.004999999999999893,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-miles-action-3.png"
         },
         {
           "id": "pose-spider-miles-action-4",
@@ -591,7 +591,7 @@
           "emoji": "🕸️",
           "rarity": "传奇",
           "hue": 0.08000000000000007,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-miles-action-4.png"
         },
         {
           "id": "pose-spider-miles-action-5",
@@ -600,7 +600,7 @@
           "emoji": "🕸️",
           "rarity": "稀有",
           "hue": 0.15500000000000003,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-miles-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-miles-action-5.png"
         },
         {
           "id": "pose-spider-gwen-action-1",
@@ -609,7 +609,7 @@
           "emoji": "🤍",
           "rarity": "普通",
           "hue": 0.955,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-gwen-action-1.png"
         },
         {
           "id": "pose-spider-gwen-action-2",
@@ -618,7 +618,7 @@
           "emoji": "🤍",
           "rarity": "稀有",
           "hue": 0.030000000000000027,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-gwen-action-2.png"
         },
         {
           "id": "pose-spider-gwen-action-3",
@@ -627,7 +627,7 @@
           "emoji": "🤍",
           "rarity": "闪耀",
           "hue": 0.10499999999999998,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-gwen-action-3.png"
         },
         {
           "id": "pose-spider-gwen-action-4",
@@ -636,7 +636,7 @@
           "emoji": "🤍",
           "rarity": "传奇",
           "hue": 0.17999999999999994,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-gwen-action-4.png"
         },
         {
           "id": "pose-spider-gwen-action-5",
@@ -645,7 +645,7 @@
           "emoji": "🤍",
           "rarity": "稀有",
           "hue": 0.2549999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/spider-gwen-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/spider-gwen-action-5.png"
         }
       ]
     },
@@ -660,7 +660,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "普通",
           "hue": 0.815,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-tiga-action-1.png"
         },
         {
           "id": "pose-ultra-tiga-action-2",
@@ -669,7 +669,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "稀有",
           "hue": 0.89,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-tiga-action-2.png"
         },
         {
           "id": "pose-ultra-tiga-action-3",
@@ -678,7 +678,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "闪耀",
           "hue": 0.965,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-tiga-action-3.png"
         },
         {
           "id": "pose-ultra-tiga-action-4",
@@ -687,7 +687,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "传奇",
           "hue": 0.040000000000000036,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-tiga-action-4.png"
         },
         {
           "id": "pose-ultra-tiga-action-5",
@@ -696,7 +696,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "稀有",
           "hue": 0.11499999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-tiga-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-tiga-action-5.png"
         },
         {
           "id": "pose-ultra-zero-action-1",
@@ -705,7 +705,7 @@
           "emoji": "⚡️",
           "rarity": "普通",
           "hue": 0.625,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-zero-action-1.png"
         },
         {
           "id": "pose-ultra-zero-action-2",
@@ -714,7 +714,7 @@
           "emoji": "⚡️",
           "rarity": "稀有",
           "hue": 0.7000000000000001,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-zero-action-2.png"
         },
         {
           "id": "pose-ultra-zero-action-3",
@@ -723,7 +723,7 @@
           "emoji": "⚡️",
           "rarity": "闪耀",
           "hue": 0.775,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-zero-action-3.png"
         },
         {
           "id": "pose-ultra-zero-action-4",
@@ -732,7 +732,7 @@
           "emoji": "⚡️",
           "rarity": "传奇",
           "hue": 0.8500000000000001,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-zero-action-4.png"
         },
         {
           "id": "pose-ultra-zero-action-5",
@@ -741,7 +741,7 @@
           "emoji": "⚡️",
           "rarity": "稀有",
           "hue": 0.925,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-zero-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-zero-action-5.png"
         },
         {
           "id": "pose-ultra-z-action-1",
@@ -750,7 +750,7 @@
           "emoji": "💠",
           "rarity": "普通",
           "hue": 0.6749999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-z-action-1.png"
         },
         {
           "id": "pose-ultra-z-action-2",
@@ -759,7 +759,7 @@
           "emoji": "💠",
           "rarity": "稀有",
           "hue": 0.75,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-z-action-2.png"
         },
         {
           "id": "pose-ultra-z-action-3",
@@ -768,7 +768,7 @@
           "emoji": "💠",
           "rarity": "闪耀",
           "hue": 0.825,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-z-action-3.png"
         },
         {
           "id": "pose-ultra-z-action-4",
@@ -777,7 +777,7 @@
           "emoji": "💠",
           "rarity": "传奇",
           "hue": 0.8999999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-z-action-4.png"
         },
         {
           "id": "pose-ultra-z-action-5",
@@ -786,7 +786,7 @@
           "emoji": "💠",
           "rarity": "稀有",
           "hue": 0.975,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-z-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-z-action-5.png"
         },
         {
           "id": "pose-ultra-light-action-1",
@@ -795,7 +795,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "普通",
           "hue": 0.22499999999999998,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-light-action-1.png"
         },
         {
           "id": "pose-ultra-light-action-2",
@@ -804,7 +804,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "稀有",
           "hue": 0.3,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-light-action-2.png"
         },
         {
           "id": "pose-ultra-light-action-3",
@@ -813,7 +813,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "闪耀",
           "hue": 0.375,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-light-action-3.png"
         },
         {
           "id": "pose-ultra-light-action-4",
@@ -822,7 +822,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "传奇",
           "hue": 0.44999999999999996,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-light-action-4.png"
         },
         {
           "id": "pose-ultra-light-action-5",
@@ -831,7 +831,7 @@
           "emoji": "🦸🏻‍♂️",
           "rarity": "稀有",
           "hue": 0.525,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/ultra-light-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/ultra-light-action-5.png"
         }
       ]
     },
@@ -846,7 +846,7 @@
           "emoji": "🌈",
           "rarity": "普通",
           "hue": 0.8949999999999999,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-1.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/bonus-rainbow-action-1.png"
         },
         {
           "id": "pose-bonus-rainbow-action-2",
@@ -855,7 +855,7 @@
           "emoji": "🌈",
           "rarity": "稀有",
           "hue": 0.97,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-2.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/bonus-rainbow-action-2.png"
         },
         {
           "id": "pose-bonus-rainbow-action-3",
@@ -864,7 +864,7 @@
           "emoji": "🌈",
           "rarity": "闪耀",
           "hue": 0.04499999999999993,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-3.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/bonus-rainbow-action-3.png"
         },
         {
           "id": "pose-bonus-rainbow-action-4",
@@ -873,7 +873,7 @@
           "emoji": "🌈",
           "rarity": "传奇",
           "hue": 0.11999999999999988,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-4.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/bonus-rainbow-action-4.png"
         },
         {
           "id": "pose-bonus-rainbow-action-5",
@@ -882,7 +882,7 @@
           "emoji": "🌈",
           "rarity": "稀有",
           "hue": 0.19499999999999984,
-          "imageURL": "https://raw.githubusercontent.com/zhangzhishan/IanStickerLibrary/main/images/poses/bonus-rainbow-action-5.png"
+          "imageURL": "https://cdn.jsdelivr.net/gh/zhangzhishan/IanStickerLibrary@9c0cbcd/images/poses/bonus-rainbow-action-5.png"
         }
       ]
     }
